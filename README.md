@@ -1,5 +1,5 @@
 # 💫 About Me:
-anything project<br>anything about technology<br>anyone who wants to help us<br>Programing,IOT,and others<br>anything<br>we are a community
+The Informatics Study Platform is a forum for developing knowledge and skills for informatics students at Malikussaleh University
 
 
 ## 🌐 Socials:
